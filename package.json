@@ -1,0 +1,19 @@
+{
+  "name": "deploying_demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Mitch-Tyrer/deploy_demo.git"
+  },
+  "author": "Mitch Tyrer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mitch-Tyrer/deploy_demo/issues"
+  },
+  "homepage": "https://github.com/Mitch-Tyrer/deploy_demo#readme"
+}
